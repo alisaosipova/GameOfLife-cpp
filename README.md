@@ -8,7 +8,7 @@
 
 
 ## Demo
-
+#### Чтобы остановить игру нажмите SPACE
 
 ![trim-video-online com_1710318090_Desktop2024031313161_OxaYaCop](https://github.com/alisaosipova/GameOfLife-cpp/assets/158164897/1859f752-4845-4991-81b0-40527c839bde)
 
